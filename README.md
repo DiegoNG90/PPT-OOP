@@ -1,7 +1,7 @@
 # PPT-OOP
 Paper Rock Scissors - Object Orientated Programming
 
-In 2020, while I was learning Python, I made a Paper Rock Scissors programme in functional programming fashion. Also, it was a Code-along session, so today I tried to:
+In 2020, while I was learning Python, I made a Paper Rock Scissors programme in functional programming fashioned way. Also, it was a Code-along session, so today I tried to:
  
 -Challenge myself and try to do it all over by my own, without any outsorce help
 -Using classes and making an OOP programming instead of Functional programming.
